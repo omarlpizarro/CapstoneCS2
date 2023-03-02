@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Ask
-### Tarea comercial
+### Task business
 Analyze smart device usage data to gain insight into how consumers use non-Bellabeat smart devices.
 After the analysis, select a Bellabeat product to apply those insights.
 
